@@ -1,0 +1,17 @@
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Add space from the top */
+  }
+  
+  .pagination-btn {
+    display: flex;
+  }
+  
+  .previous-btn {
+    margin-right: auto;
+  }
+  
+  .next-btn {
+    margin-left: auto;
+  }
